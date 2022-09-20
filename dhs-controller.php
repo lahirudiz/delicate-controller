@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DHS Controller
-Description: Site controller for the DHS
+Description: Site controller for the DHS Plugin
 Author: Lahiru Dissanayaka
 */
 
